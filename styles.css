@@ -312,3 +312,7 @@ footer > p {
 #scrollspyHeading1 {
     margin-bottom: 30px;
 }
+
+.btn-close {
+    align-self: flex-end;
+}
